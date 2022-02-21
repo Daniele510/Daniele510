@@ -6,7 +6,7 @@
 I'm a second year student in Computer Science and Engineering at the Alma Mater Studiorum - University of Bologna
 
 ### 💼  Currents projects
-* I’m currently working on PacMan21, a OOP project in Java
+* I’m currently working on Sanitary Shop, a Web project
 * 🔜
 * How to reach me: danielemartignani@gmail.com
 
