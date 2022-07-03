@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-martignani-3a8077191/)
 
 <!-- Introduction -->
-I'm a second year student in Computer Science and Engineering at the Alma Mater Studiorum - University of Bologna
+I'm a third year student in Computer Science and Engineering at the Alma Mater Studiorum - University of Bologna
 
 ### 💼  Currents projects
 * I’m currently working on Sanitary Shop, a Web project
